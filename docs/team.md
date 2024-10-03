@@ -7,8 +7,6 @@ title: Team
 
 <p class="description">Encountering an issue with KAYP? Check these frequently asked questions to troubleshoot common problems.</p>
 
-If you still can't find the information you need, feel free to visit our [support page](/kayp/getting-started/support/).
-
 ## KAYP is a valuable solution. How can I support its development?
 
 There are several ways to contribute to KAYP’s growth:
