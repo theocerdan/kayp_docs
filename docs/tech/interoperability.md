@@ -3,22 +3,40 @@ sidebar_position: 1
 title: Interoperability
 ---
 
-# Design Resources
+# Interoperability
 
-<p class="description">Boost your efficiency in designing and developing with KAYP's design system, which will soon evolve into a full library for all front-end applications.</p>
+Interoperability is a crucial topic for maritime trade, as it is the very reason for the creation of the DCSA standard. At KAYP, we integrate this standard at the API layer following the DCSA specifications (refer to the [Architecture](#architecture) page for more details).
 
-## Design Kits
+Currently, several versions of this contract exist, and the long-term goal is to ensure that **all stable versions** can be integrated seamlessly. We leverage code generation tools to automatically generate standardized controllers based on the DCSA interface contract.
 
-Currently, KAYP offers a design **prototype** available on Figma. This maquette helps teams visualize and collaborate on the future UI components of KAYP. [Access the KAYP design kit on Figma](https://www.figma.com/design/xxsDaNQ03MoLlKS0xJLPwK/Kayp?node-id=382-19698&t=1JsSUn1acrqfNqIB-1).
+To learn more about the DCSA standard, please refer to the [dedicated documentation page](#dcsa-standard).
 
-However, our ultimate goal is to develop a fully-fledged design library based on **Shadcn**, a modern design system that prioritizes scalability and consistency. This library will be integrated into all KAYP front-end applications, offering a unified and cohesive design experience across the platform.
+---
 
-## What is Shadcn?
+## Why is interoperability important?
 
-**Shadcn** is a hybrid design system combining the principles of component-based design and utility-first CSS (like Tailwind CSS). It offers flexibility and customization while maintaining a consistent design language. The system is built to scale across large applications, ensuring that every component remains adaptable and reusable.
+The maritime industry involves multiple stakeholders, including shippers, carriers, and customs authorities, each of whom may use different systems for managing shipments. Interoperability ensures that these systems can communicate with each other efficiently, without compatibility issues. It is essential for:
 
-- **Scalability:** Shadcn is optimized for large projects, making it easy to maintain and evolve the design as KAYP grows.
-- **Customization:** It allows teams to modify components while adhering to a common set of design principles, ensuring flexibility without sacrificing consistency.
-- **Utility-first:** Shadcn integrates well with utility-first CSS frameworks, like Tailwind CSS, enabling rapid development and prototyping.
+- **Reducing delays** in communication between parties.
+- **Ensuring accuracy** by preventing miscommunication or misinterpretation of data.
+- **Enhancing transparency** by providing all participants with consistent and reliable information.
 
-With Shadcn, KAYP will ensure that its design system is not only visually appealing but also highly functional and easy to maintain for all front-end teams.
+---
+
+## KAYP's Approach to Interoperability
+
+At KAYP, we are committed to making our platform **fully interoperable** with the DCSA standards. Here's how we achieve this:
+
+- **API Layer Compliance:** Our DCSA-compliant API layer is designed to integrate with the standards, allowing for seamless communication with other platforms following the same specifications.
+
+- **Support for Multiple Versions:** As new versions of the DCSA contracts are released, we aim to support all stable versions, ensuring that our system remains compatible with the latest developments in the maritime industry.
+
+- **Automated Controller Generation:** Using interface contracts provided by DCSA, we generate standardized controllers through code generation tools. This approach reduces manual effort, minimizes errors, and ensures that our system remains compliant with the evolving standards.
+
+---
+
+## Future Plans
+
+As part of our ongoing commitment to interoperability, we are continuously monitoring new updates from DCSA. Our goal is to provide an environment where different platforms can integrate effortlessly, regardless of the version of the DCSA standard they are using.
+
+Stay updated by visiting our [DCSA Documentation](#dcsa-standard) page for more information on the latest developments.
