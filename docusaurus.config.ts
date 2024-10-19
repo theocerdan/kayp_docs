@@ -69,7 +69,7 @@ const config: Config = {
       title: 'Kayp',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/Icon.png',
+        src: 'img/logo.svg',
       },
       items: [
         {
