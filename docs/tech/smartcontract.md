@@ -36,7 +36,7 @@ The **EBL Contract** is designed to store a cryptographically secured version of
 - **Update Functionality**:  
   The owner can update the eBL as needed, ensuring that only the authorized individual can make changes.
 
-[](./img/ebl.png)
+![](..//img/ebl.png)
 
 ---
 
@@ -63,7 +63,7 @@ The **Escrow Contract** is built to ensure secure transactions between parties i
 - **Funds Reclamation**:  
   If items are not dispatched, the buyer can reclaim the funds, changing the state to `CANCELED`.
 
-[](./img/escrow.png)
+![](..//img/escrow.png)
 
 ---
 
