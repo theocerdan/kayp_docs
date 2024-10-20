@@ -33,5 +33,4 @@ KAYP provides an advanced, digital alternative to traditional paper-based shipme
 
 Begin your journey with KAYP today through some of these useful resources:
 - [DCSA eB/L standards](https://developer.dcsa.org/ebl)
-- [KAYP documentation](https://kayp.io/docs)
-- [KAYP GitHub](https://github.com/kayp)
+- [KAYP GitHub](https://github.com/theocerdan/kayp_ebl_api)

@@ -38,5 +38,3 @@ At KAYP, we are committed to making our platform **fully interoperable** with th
 ## Future Plans
 
 As part of our ongoing commitment to interoperability, we are continuously monitoring new updates from DCSA. Our goal is to provide an environment where different platforms can integrate effortlessly, regardless of the version of the DCSA standard they are using.
-
-Stay updated by visiting our [DCSA Documentation](#dcsa-standard) page for more information on the latest developments.

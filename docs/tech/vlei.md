@@ -5,8 +5,6 @@ title: VLei Integration
 
 # vLEI
 
-### **Introduction**
-
 **vLEI (verifiable Legal Entity Identifiers)** are verifiable digital identifiers that enable automatic authentication of legal entities and their authorized representatives. In the context of KAYP, integrating vLEI enhances the security and transparency of transactions, especially for eB/L (Electronic Bill of Lading) and **trade finance** solutions.
 
 ### **Why Integrate vLEI in KAYP?**
